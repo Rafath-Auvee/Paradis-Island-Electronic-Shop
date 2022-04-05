@@ -7,7 +7,7 @@ const CustomReview = () => {
   const [reviews, setReview] = useReviews();
     return (
       <div>
-        <h1 className="text-6xl text-green-600 font-bold mb-10 flex justify-center">
+        <h1 className="text-4xl mt-4 text-green-600 font-bold mb-10 flex justify-center">
           Customer Reviews(3)
         </h1>
 
