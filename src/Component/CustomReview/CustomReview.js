@@ -18,7 +18,7 @@ const CustomReview = () => {
         </div>
 
         <Link to="reviews" className="flex justify-center">
-          <button className="mt-10 bg-green-600 text-white rounded py-5 font-bold text-black-50 text-2xl px-20">
+          <button className="mt-10 bg-green-600 text-white rounded py-4 font-bold text-black-50 text-2xl px-20">
             See All Reviews
           </button>
         </Link>
