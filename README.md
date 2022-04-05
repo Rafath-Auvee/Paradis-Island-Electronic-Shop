@@ -3,10 +3,12 @@
 Live Link: https://auvee-assignment-9.netlify.app
 
 
-## Used in the project:
+## Things I do in this project:
 - Fake Data Generate
 - React Rating
-- 
+- Navbar
+- Props 
+- Destructuring
 - Data Visualize
 - Rechart
 - Font Awesome Icons
