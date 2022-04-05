@@ -6,9 +6,9 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 const ReviewCart = (props) => {
     const{name,img,title,rating}=props.review;
     return (
-      <div className="shadow-lg rounded-2xl w-[250px] bg-white p-4">
-        <div>
-          <img src={img} alt="" srcset="" />
+      <div className="shadow-lg border-2 mt-4 border-black-500 rounded-2xl w-[350px]  bg-white p-4">
+        <div >
+          <img className="rounded-2xl" src={img} alt="" srcset="" />
         </div>
         <h2 className="text-xl font-bold flex justify-center m-5">
           Name : {name}
@@ -22,7 +22,7 @@ const ReviewCart = (props) => {
           }
           readonly
         ></Rating>
-        ;
+        
       </div>
     );
 };

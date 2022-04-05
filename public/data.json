@@ -1,0 +1,44 @@
+[
+    {
+        "id":1,
+        "name": "Levi Ackerman",
+        "img": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+        "title": "Got what I expected. Works nicely. Recommended for any electrical parts and products.",
+        "rating": "5"
+    },
+    {
+        "id":2,
+        "name": "Eren Yeager",
+        "img": "https://images.unsplash.com/photo-1584043720379-b56cd9199c94?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+        "title": "The full set gets you started on the project very fast.",
+        "rating": "5"
+    },
+    {
+        "id":3,
+        "name": "Connie Springer",
+        "img": "https://images.unsplash.com/photo-1519058082700-08a0b56da9b4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+        "title": "It was really good product. Delivery was so fast.",
+        "rating": "4.5"
+    },
+    {
+        "id":4,
+        "name": "Armin Arlet",
+        "img": "https://images.unsplash.com/photo-1488371934083-edb7857977df?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=380&q=80",
+        "title": "Really helpful staff and the products are nice.",
+        "rating": "5"
+    },
+    {
+        "id":5,
+        "name": "Reiner Braun",
+        "img": "https://images.unsplash.com/photo-1534030347209-467a5b0ad3e6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+        "title": "Quick delivery. Raspberry Pi was already set up on the case. Just plug and play. Just focus on your work.",
+        "rating": "4.6"
+    },
+    {
+        "id":6,
+        "name": "Falco Grice",
+        "img": "https://images.unsplash.com/photo-1610088441520-4352457e7095?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+        "title": "It didn't take much time to assemble. Which is very good to get started with 3D printing.",
+        "rating": "4"
+    }
+]
